@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-// import logo from './logo.svg';
 import './App.css';
 import {Link, Route} from 'react-router-dom';
 import Welcome from '../../pages/Welcome/Welcome';
@@ -23,9 +22,9 @@ render () {
 return (
     <div className="App">
       <header>
-        <Link exact to="/">Home</Link>
-        <Link exact to="/teachers">Teachers</Link>
-        <Link exact to="/students">Students</Link>
+        <Link exact to="/">Home</Link><br></br>
+        <Link exact to="/teachers">Teachers</Link><br></br>
+        <Link exact to="/students">Students</Link><br></br>
       </header>
       <main>
     <h1>Teachers and Students</h1>

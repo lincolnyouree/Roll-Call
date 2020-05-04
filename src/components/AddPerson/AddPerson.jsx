@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 
-
 class AddPerson extends Component {
     state = {
         name: ''

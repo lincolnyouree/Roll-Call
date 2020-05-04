@@ -1,9 +1,11 @@
-* {
+.App {
+  text-align: center;
+  padding: 5vmin;
   background-image: url(https://i.imgur.com/US44VNy.png);
 }
 
-.App {
-  text-align: center;
+a {
+  color: black;
 }
 
 .App-logo {
