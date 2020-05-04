@@ -10,7 +10,6 @@
 * CSS
 * Node
 
-## Screenshots: 
+## Screenshot: 
 
 ![Wireframe](https://i.imgur.com/B9OnNMM.png)
-![Wireframe](https://i.imgur.com/1OGBagv.png)
